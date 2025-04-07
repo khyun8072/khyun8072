@@ -31,8 +31,8 @@ Please check my Curriculum Vitae for more information.
 ## Skills
 
 **Languages**  
-- Korean (Native)
-- 
+- Korean (Native)  
+- English (Basic)
 
 **Programming Languages**  
 - Python (Familiar)
