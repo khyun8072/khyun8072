@@ -2,18 +2,16 @@
 
 Please check my Curriculum Vitae for more information.
 
----
-
 ## Profile
-
+--
 - M.S. Student, Department of Artificial Intelligence, Chung-Ang University  
 - E-mail: khyun8072@gmail.com / khyun8072@cau.ac.kr  
 - Research Interests: Retrieval-Augmented Generation (RAG), Natural Language Processing (NLP), Large Language Models (LLMs)
 
----
+
 
 ## Publications
-
+--
 ### International Publications
 
 - **Bridging the Gap between Small Language Models and Large Language Models**  
@@ -26,15 +24,15 @@ Please check my Curriculum Vitae for more information.
   - 대한전자공학회 2024년도 하계종합학술대회  
   - [Paper](Documents/Papers/Con-RAG_기여도_기반_검색_필요성_분석을_통한_효율적인_검색_증강_생성.pdf)
 
----
+
 
 ## Skills
-
-**Languages**  
+--
+### **Languages**  
 - Korean (Native)  
 - English (Basic)
 
-**Programming Languages**  
+### **Programming Languages**  
 - Python (Familiar)
 
 **Libraries**  
