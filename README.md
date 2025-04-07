@@ -17,7 +17,7 @@ Please check my Curriculum Vitae for more information.
 ### International Publications
 
 - **Bridging the Gap between Small Language Models and Large Language Models**  
-  _Under review at ACL 2025_
+  - _Under review at ACL 2025_
 
 ### Domestic Publications
 
