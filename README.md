@@ -14,6 +14,9 @@ Please check my Curriculum Vitae for more information.
 
 - **Plug-in and Fine-tuning: Bridging the Gap between Small Language Models and Large Language Models**  
   - _Under review at ACL 2025_
+ 
+- **Making Sense of Korean Sentences: A Comprehensive Evaluation of LLMs through KoSEnd Dataset**
+  - _Under review at ACL 2025_  
 
 ### Domestic Publications
 
