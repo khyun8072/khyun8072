@@ -25,7 +25,12 @@ Please check my [Curriculum Vitae](Documents/Curriculum_Vitae___Kyeonghyun_Kim.p
   - 대한전자공학회 2024년도 하계종합학술대회  
   - [Paper](Documents/Papers/Con-RAG_기여도_기반_검색_필요성_분석을_통한_효율적인_검색_증강_생성.pdf)
 
+## Projects
 
+- RAG 기반의 AI 대화형 질의응답 시스템
+  - Sponsor: (주)URP; 연구용역과제
+  - Date: Jun. 2024 to Dec. 2024
+  - Role: RAG 기반의 대화형 부동산 법률 질의응답시스템 개발
 
 ## Skills
 
