@@ -28,12 +28,9 @@ Please check my [Curriculum Vitae](Documents/Curriculum_Vitae___Kyeonghyun_Kim.p
 
 
 ## Skills
-### **Languages**  
-- Korean (Native)  
-- English (Basic)
 
 ### **Programming Languages**  
-- Python (Familiar)
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 
 **Libraries**  
 - PyTorch  
