@@ -24,7 +24,7 @@ Please check my Curriculum Vitae for more information.
 - **Con-RAG 기반 검색 필요성 분석을 통한 효율적인 검색 증강 생성**  
   Kyeonghyun Kim, Yeonghwa Kim, Kyohoon Jin, and YoungBin Kim  
   대한전자공학회 2024년도 하계종합학술대회  
-  [Paper (PDF)](kyeonghyunkim/Documents/Papers/Con-RAG%20기여도%20기반%20검색%20필요성%20분석을%20통한%20효율적인%20검색%20증강%20생성.pdf)
+  [Paper (PDF)](Documents/Papers/Con-RAG 기여도 기반 검색 필요성 분석을 통한 효율적인 검색 증강 생성.pdf)
 
 ---
 
