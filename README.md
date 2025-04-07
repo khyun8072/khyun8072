@@ -30,7 +30,7 @@ Please check my [Curriculum Vitae](Documents/Curriculum_Vitae___Kyeonghyun_Kim.p
 - RAG 기반의 AI 대화형 질의응답 시스템
   - Sponsor: (주)URP; 연구용역과제
   - Date: Jun. 2024 to Dec. 2024
-  - Role: RAG 기반의 대화형 부동산 법률 질의응답시스템 개발
+  - Role: 부동산 법률에 특화된 검색 시스템 개발
 
 ## Skills
 
