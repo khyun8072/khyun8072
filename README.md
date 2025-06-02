@@ -15,16 +15,16 @@ Please check my [Curriculum Vitae](Documents/Curriculum_Vitae___Kyeonghyun_Kim.p
 - **Plug-in and Fine-tuning: Bridging the Gap between Small Language Models and Large Language Models**  
   - **Kyeonghyun Kim**, Jinhee Jang, Juhwan Choi, Yoonji Lee, Kyohoon Jin and YoungBin Kim
   - _ACL 2025_
-  - [Paper]()
+  - [Paper](Documents/Papers/Plug_in_and_Fine_tuning.pdf)
  
 - **A Comprehensive Evaluation of LLMs through KoSEnd Dataset**
   - _Under review at ARR_  
 
 ### Domestic Publications
 - **다중 LLM 응답과 이중 정제를 통한환각 탐지 데이터 생성 프레임워크**
-- Hayeong Ryu, **Kyeonghyun Kim**, Yeonghwa Kim, JuneHyoung Kwon, and YoungBin Kim
-- 대한전자공학회 2025년도 하계종합학술대회
-- [Paper]()
+  - Hayeong Ryu, **Kyeonghyun Kim**, Yeonghwa Kim, JuneHyoung Kwon, and YoungBin Kim
+  - 대한전자공학회 2025년도 하계종합학술대회
+  - [Paper](Documents/Papers/다중_LLM_응답과_이중_정제를_통한_환각_탐지_데이터_생성_프레임워크.pdf)
 
 - **Con-RAG: 기여도 기반 검색 필요성 분석을 통한 효율적인 검색 증강 생성**  
   - **Kyeonghyun Kim**, Yeonghwa Kim, Kyohoon Jin, and YoungBin Kim  
