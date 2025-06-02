@@ -25,6 +25,11 @@ Please check my [Curriculum Vitae](Documents/Curriculum_Vitae___Kyeonghyun_Kim.p
   - Hayeong Ryu, **Kyeonghyun Kim**, Yeonghwa Kim, JuneHyoung Kwon, and YoungBin Kim
   - 대한전자공학회 2025년도 하계종합학술대회
   - [Paper](Documents/Papers/다중_LLM_응답과_이중_정제를_통한_환각_탐지_데이터_생성_프레임워크.pdf)
+ 
+- **자율주행 환경에서 카메라 기반 3D 객체 탐지를 위한 Depth 추정 방식 비교 분석**
+  - Kahyeon Kim, Seunghoon Lee, **Kyeonghyun Kim**, Youngbin Kim
+  - 대한전자공학회 2025년도 하계종합학술대회
+  - [Paper](Documents/Papers/자율주행_환경에서_카메라_기반_3D_객체_탐지를_위한_Depth_추정_방식_비교_분석.pdf)
 
 - **Con-RAG: 기여도 기반 검색 필요성 분석을 통한 효율적인 검색 증강 생성**  
   - **Kyeonghyun Kim**, Yeonghwa Kim, Kyohoon Jin, and YoungBin Kim  
