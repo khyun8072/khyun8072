@@ -42,7 +42,10 @@ Please check my [Curriculum Vitae](Documents/Curriculum_Vitae___Kyeonghyun_Kim.p
   - Sponsor: (주)URP; 연구용역과제
   - Date: Jun. 2024 to Dec. 2024
   - Role: 부동산 법률에 특화된 검색 시스템 개발
-
+  
+- 중앙대학교 군AI 교육과정 실습조교 근무
+  - Date: Jul. 2024 to Sep. 2024
+  - Role: AI수학 실습 조교
 ## Skills
 
 ### **Programming Languages**  
