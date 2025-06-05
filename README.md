@@ -13,7 +13,7 @@ Please check my [Curriculum Vitae](Documents/Curriculum_Vitae___Kyeonghyun_Kim.p
 ### International Publications
 
 - **Plug-in and Fine-tuning: Bridging the Gap between Small Language Models and Large Language Models**  
-  #[pifi_figure](https://github.com/user-attachments/assets/e73cbce8-e680-419e-a883-13d05c5e2d98)
+  # ![pifi_figure](https://github.com/user-attachments/assets/e73cbce8-e680-419e-a883-13d05c5e2d98)
   - **Kyeonghyun Kim**, Jinhee Jang, Juhwan Choi, Yoonji Lee, Kyohoon Jin and YoungBin Kim
   - _ACL 2025_
   - [Paper](Documents/Papers/Plug_in_and_Fine_tuning.pdf)
