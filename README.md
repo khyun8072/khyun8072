@@ -15,7 +15,7 @@ Please check my [Curriculum Vitae](Documents/Curriculum_Vitae___Kyeonghyun_Kim.p
 - **Plug-in and Fine-tuning: Bridging the Gap between Small Language Models and Large Language Models**  
   - **Kyeonghyun Kim**, Jinhee Jang, Juhwan Choi, Yoonji Lee, Kyohoon Jin and YoungBin Kim
   - _ACL 2025_
-  - [Paper](Documents/Papers/Plug_in_and_Fine_tuning.pdf)
+  - [Paper](https://arxiv.org/abs/2506.07424)
  
 - **A Comprehensive Evaluation of LLMs through KoSEnd Dataset**
   - Seunguk Yu, **Kyeonghyun Kim**, JungMin Yun, YoungBin Kim
