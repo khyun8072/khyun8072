@@ -18,7 +18,8 @@ Please check my [Curriculum Vitae](Documents/Curriculum_Vitae___Kyeonghyun_Kim.p
   - [Paper](Documents/Papers/Plug_in_and_Fine_tuning.pdf)
  
 - **A Comprehensive Evaluation of LLMs through KoSEnd Dataset**
-  - _Under review at ARR_  
+  - Seunguk Yu, **Kyeonghyun Kim**, JungMin Yun, YoungBin Kim
+  - _ACL 2025 Student Research Workshop_  
 
 ### Domestic Publications
 - **다중 LLM 응답과 이중 정제를 통한환각 탐지 데이터 생성 프레임워크**
