@@ -5,7 +5,7 @@ Please check my [Curriculum Vitae](Documents/Curriculum_Vitae___Kyeonghyun_Kim.p
 ## Profile
 - M.S. Student, Department of Artificial Intelligence, Chung-Ang University  
 - E-mail: khyun8072@gmail.com / khyun8072@cau.ac.kr  
-- Research Interests: Retrieval-Augmented Generation (RAG), Natural Language Processing (NLP), Large Language Models (LLMs)
+- Research Interests: Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), Natural Language Processing (NLP)
 
 
 
