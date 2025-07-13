@@ -16,7 +16,7 @@ Please check my [Curriculum Vitae](Documents/Curriculum_Vitae___Kyeonghyun_Kim.p
   - **Kyeonghyun Kim***, Jinhee Jang*, Juhwan Choi*, Yoonji Lee, Kyohoon Jin and YoungBin Kim
   - _ACL 2025_
   - [Paper](https://arxiv.org/abs/2506.07424)
-  - * denotes equal contribution
+  - \* denotes equal contribution
  
 - **A Comprehensive Evaluation of LLMs through KoSEnd Dataset**
   - Seunguk Yu, **Kyeonghyun Kim**, JungMin Yun, YoungBin Kim
