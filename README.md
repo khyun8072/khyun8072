@@ -20,8 +20,8 @@ Please check my [Curriculum Vitae](Documents/Curriculum_Vitae___Kyeonghyun_Kim.p
  
 - **A Comprehensive Evaluation of LLMs through KoSEnd Dataset**
   - Seunguk Yu, **Kyeonghyun Kim**, JungMin Yun, YoungBin Kim
+  - _ACL 2025 Student Research Workshop_
   - [Paper](https://aclanthology.org/2025.acl-srw.29/)
-  - _ACL 2025 Student Research Workshop_  
 
 ### Domestic Publications
 - **다중 LLM 응답과 이중 정제를 통한환각 탐지 데이터 생성 프레임워크**
