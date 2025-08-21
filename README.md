@@ -40,14 +40,7 @@ Please check my [Curriculum Vitae](Documents/Curriculum_Vitae___Kyeonghyun_Kim.p
   - [Paper](Documents/Papers/Con-RAG_기여도_기반_검색_필요성_분석을_통한_효율적인_검색_증강_생성.pdf)
 
 ## Projects
-- 의료 상담 특화 챗봇 개발
-  - Date: Jun. 2025 --
-  - Role: 한국어 의료 상담 특화 LLM 파인튜닝
- 
-- RAG 기반의 AI 대화형 질의응답 시스템
-  - Date: Jun. 2024 to Dec. 2024
-  - Role: 부동산 법률에 특화된 검색 시스템 개발
-  
+
 - 중앙대학교 군AI 교육과정 실습조교 근무
   - Date: Jul. 2024 to Sep. 2024
   - Role: AI수학 실습 조교
