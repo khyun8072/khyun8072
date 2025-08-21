@@ -41,12 +41,10 @@ Please check my [Curriculum Vitae](Documents/Curriculum_Vitae___Kyeonghyun_Kim.p
 
 ## Projects
 - 의료 상담 특화 챗봇 개발
-  - Sponsor: (주)한국클라우드
   - Date: Jun. 2025 --
   - Role: 한국어 의료 상담 특화 LLM 파인튜닝
  
 - RAG 기반의 AI 대화형 질의응답 시스템
-  - Sponsor: (주)URP; 연구용역과제
   - Date: Jun. 2024 to Dec. 2024
   - Role: 부동산 법률에 특화된 검색 시스템 개발
   
