@@ -1,6 +1,6 @@
 # Kyeonghyun Kim
 
-Please check my [Curriculum Vitae](Documents/Curriculum_Vitae___Kyeonghyun_Kim.pdf) for more information.
+Please check my [Curriculum Vitae](Documents/Curriculum_Vitae___Kyeonghyun_Kim (4).pdf) for more information.
 
 ## Profile
 - M.S. Student, Department of Artificial Intelligence, Chung-Ang University  
