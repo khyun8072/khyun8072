@@ -41,9 +41,18 @@ Please check my [Curriculum Vitae](Documents/Curriculum_Vitae___Kyeonghyun_Kim_(
 
 ## Projects
 
+- AI 메타버스 기반 디지털 헬스케어 및 마인드케어 플랫폼 개발
+  - Date: Apr. 2025 – Present
+  - Role: 도메인 특화를 위한 LLM 학습 (한국전파진흥협회 프로젝트)
+  
+- RAG 기반의 AI 대화형 질의응답 시스템
+  - Date: Date: Jun. 2024 – Dec. 2024
+  - Role: 도메인 특화 Retrieval 시스템 개발 (산업체 연구용역 과제)
+
 - 중앙대학교 군AI 교육과정 실습조교 근무
   - Date: Jul. 2024 to Sep. 2024
   - Role: AI수학 실습 조교
+
 ## Skills
 
 ### **Programming Languages**  
