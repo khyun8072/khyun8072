@@ -12,14 +12,24 @@ Please check my [Curriculum Vitae](Documents/Curriculum_Vitae___Kyeonghyun_Kim.p
 ## Publications
 ### International Publications
 
-- **Plug-in and Fine-tuning: Bridging the Gap between Small Language Models and Large Language Models**  
-  - **Kyeonghyun Kim***, Jinhee Jang*, Juhwan Choi*, Yoonji Lee, Kyohoon Jin and YoungBin Kim
+- **Self-Corrected Preference Learning for Hallucination Mitigation in LVLMs**
+  - _Under review at ACL 2026._
+
+- **Dynamic Trajectory for Token-Level Early Warning of Hallucination Detection**
+  - _Under review at ACL 2026._
+
+- **VG-CoT: Towards Trustworthy Visual Reasoning via Grounded Chain-of-Thought**
+  - Byeonggeuk Lim, **Kyeonghyun Kim**, Jungmin Yun and YoungBin Kim
+  - _LREC 2026_
+
+- **Plug-in and Fine-tuning: Bridging the Gap between Small Language Models and Large Language Models**
+  - **Kyeonghyun Kim**\*, Jinhee Jang\*, Juhwan Choi\*, Yoonji Lee, Kyohoon Jin and YoungBin Kim
   - _ACL 2025_
   - [Paper](https://aclanthology.org/2025.acl-long.271/)
   - \* denotes equal contribution
- 
-- **A Comprehensive Evaluation of LLMs through KoSEnd Dataset**
-  - Seunguk Yu, **Kyeonghyun Kim**, JungMin Yun, YoungBin Kim
+
+- **Making Sense of Korean Sentences: A Comprehensive Evaluation of LLMs through the KoSEnd Dataset**
+  - Seunguk Yu, **Kyeonghyun Kim**, JungMin Yun and YoungBin Kim
   - _ACL 2025 Student Research Workshop_
   - [Paper](https://aclanthology.org/2025.acl-srw.29/)
 
@@ -42,11 +52,11 @@ Please check my [Curriculum Vitae](Documents/Curriculum_Vitae___Kyeonghyun_Kim.p
 ## Projects
 
 - AI 메타버스 기반 디지털 헬스케어 및 마인드케어 플랫폼 개발
-  - Date: Apr. 2025 – Present
+  - Date: Jun. 2025 – Dec. 2025
   - Role: 도메인 특화를 위한 LLM 학습 (한국전파진흥협회 프로젝트)
   
 - RAG 기반의 AI 대화형 질의응답 시스템
-  - Date: Date: Jun. 2024 – Dec. 2024
+  - Date: Date: Mar. 2024 – Dec. 2024
   - Role: 도메인 특화 Retrieval 시스템 개발 (산업체 연구용역 과제)
 
 - 중앙대학교 군AI 교육과정 실습조교 근무
