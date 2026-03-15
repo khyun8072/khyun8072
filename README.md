@@ -60,7 +60,11 @@ Please check my [Curriculum Vitae](Documents/Curriculum_Vitae___Kyeonghyun_Kim.p
   - Role: 도메인 특화 Retrieval 시스템 개발 (산업체 연구용역 과제)
 
 - 중앙대학교 군AI 교육과정 실습조교 근무
-  - Date: Jul. 2024 to Sep. 2024
+  - Date: Sep. 2025 to Dec. 2025
+  - Role: 딥러닝/자연어처리 실습 조교
+
+- 중앙대학교 군AI 교육과정 실습조교 근무
+  - Date: Aug. 2024 to Oct. 2024
   - Role: AI수학 실습 조교
 
 ## Skills
